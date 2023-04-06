@@ -4,11 +4,11 @@
 
 # 阅读目标拆解
 ## 搞清楚以下问题
-* chatGPT所带来的影响力？如何理解是所谓的iphone时刻？
-* chatgpt跟传统的NLP技术相比，进步的地方是什么？
 * chatGPT的迭代史
 * chatGPT的核心技术
+* chatgpt跟传统的NLP技术相比，进步的地方是什么？
 * chatgpt所带来的场景重构有哪些？产品的机会有哪些？
+* chatGPT所带来的影响力？如何理解是所谓的iphone时刻？
 
 
 # 资料筛选逻辑

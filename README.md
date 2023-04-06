@@ -52,19 +52,20 @@
 ### blog
 * [理解大语言模型——10篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)
 * [ChatGPT的各项超能力从哪儿来？万字拆解追溯技术路线图来了！](https://mp.weixin.qq.com/s/7N3HveaIfn2N-zKjBoRL1A)
-* LLM大语言模型
-  * [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
-  * [压缩即泛化，泛化即智能](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)
 * Transformer
   * [了解 Transformers 是如何“思考”的](https://mp.weixin.qq.com/s/oNd_Qt2Sax1XR8QvDSoDhQ)
   * [为什么现在的大语言模型（LLM）都是Decoder-only的架构？](https://mp.weixin.qq.com/s/ZsHX-M9pisUvG9vqfzdzTQ)
   * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/?ref=indigox.me)
   * [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
+* LLM大语言模型
+  * [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+  * [压缩即泛化，泛化即智能](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)
+* Prompt
+  * [五万字综述！Prompt Tuning：深度解读一种新的微调范式](https://mp.weixin.qq.com/s/-lfq63NrsqUgmvYNzogCew)
 * RLHF
   * [ChatGPT 背后的“功臣”——RLHF 技术详解 ](https://mp.weixin.qq.com/s/TLQ3TdrB5gLb697AFmjEYQ)
   * [ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg)
-* Prompt
-  * [五万字综述！Prompt Tuning：深度解读一种新的微调范式](https://mp.weixin.qq.com/s/-lfq63NrsqUgmvYNzogCew)
+
 
 ## 第三手资料
 * Community

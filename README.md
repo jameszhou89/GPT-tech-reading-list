@@ -23,11 +23,11 @@
 ### Paper
 * 2017 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - 这篇论文介绍了原始的 Transformer 的结构，是 Transformer 系列的基础。
 * GPT1~GPT4 Openai
- * 2018 [Improving language understanding by generative pre-training](https://openai.com/research/language-unsupervised) - 这篇论文介绍了另一个流行的预训练模型，也就是被后人所熟知的 GPT-1。
- * 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - 这篇论文引入了 GPT-2。
- * 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - 这篇论文引入了 GPT-3。
- * 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - 这篇论文提出了一种 RLHF 的方式
- * 2023 [GPT-4 technical report](https://arxiv.org/abs/2303.08774)
+  * 2018 [Improving language understanding by generative pre-training](https://openai.com/research/language-unsupervised) - 这篇论文介绍了另一个流行的预训练模型，也就是被后人所熟知的 GPT-1。
+  * 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - 这篇论文引入了 GPT-2。
+  * 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - 这篇论文引入了 GPT-3。
+  * 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - 这篇论文提出了一种 RLHF 的方式
+  * 2023 [GPT-4 technical report](https://arxiv.org/abs/2303.08774)
 * 2022 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 * [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 

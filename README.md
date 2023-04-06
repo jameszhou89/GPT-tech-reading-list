@@ -59,6 +59,7 @@
   * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/?ref=indigox.me)
   * [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
 * LLM大语言模型
+  * [Compression for AGI](https://www.youtube.com/@StanfordMLSysSeminars)
   * [压缩即泛化，泛化即智能](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)
 * Prompt
   * [五万字综述！Prompt Tuning：深度解读一种新的微调范式](https://mp.weixin.qq.com/s/-lfq63NrsqUgmvYNzogCew)

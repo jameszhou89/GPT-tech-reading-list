@@ -68,8 +68,6 @@
 
 
 ## 第三手资料
-* Community
-  * [ChatGPT 共学营](https://appycyfaqcq1951.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/column/p_63e8a005e4b0fc5d12307a2b)
 * talks
   * [B站最强的【Chat GPT保姆级使用教程】](https://www.bilibili.com/video/BV1HT411R7Lj/)
   * [万字科普GPT4为何会颠覆现有工作流](https://www.bilibili.com/video/BV1MY4y1R7EN/)

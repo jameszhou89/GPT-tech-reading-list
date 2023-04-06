@@ -30,7 +30,7 @@
  * 2023 [GPT-4 technical report](https://arxiv.org/abs/2303.08774)
 * 2022 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 * [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
-* [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+
 ### Talks
 * openai CEO
   * [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)

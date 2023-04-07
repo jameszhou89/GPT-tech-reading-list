@@ -35,6 +35,7 @@
 ### Talks
 * openai CEO
   * [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast](https://www.youtube.com/watch?v=L_Guz73e6fw)
+  * [OpenAI CEO Sam Altman | AI for the Next Era](https://www.youtube.com/watch?v=WHoWGNQRXb0&t=2s)
 * openai CTO
   * [Ilya Sutskever (OpenAI Chief Scientist) - Building AGI, Alignment, Spies, Microsoft, & Enlightenment](https://www.youtube.com/watch?v=Yf1o0TQzry8)
   * [GPT-4创造者：第二次改变AI浪潮的方向](https://mp.weixin.qq.com/s/rZBEDlxFVsVXoL5YUVU3XQ)
@@ -49,6 +50,7 @@
 * [What is ChatGPT doing...and why does it work?](https://www.youtube.com/watch?v=flXrLGPY3SU)
 * [GPT-4论文精读](https://www.youtube.com/watch?v=K0SZ9mdygTw)
 * [GPT，GPT-2，GPT-3 论文精读](https://www.youtube.com/watch?v=t70Bl3w7bxY)
+* [OpenAI Codex 论文精读【论文精读】](https://www.youtube.com/watch?v=oZriUGkQSNM)
 
 ### blog
 * [理解大语言模型——10篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)

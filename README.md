@@ -16,6 +16,7 @@
 * 第一手资料最重要；包括核心的论文以及openai老板们的分享；
 * 其次是二手解读；
 * 宏观论述+科普第三；
+* **_资料会随着时间不断更新_**
 
 
 # GPT资料列表
@@ -80,4 +81,5 @@
   * [万字长文：一文看懂GPT风口，有哪些创业机会？](https://mp.weixin.qq.com/s/gPqOAzX4sWZtXDPFjc16Ow)
   * [这一轮AI会带来什么样的范式转移？](https://mp.weixin.qq.com/s/oXdIJ9hdSp7Ls4CuaNFiXw)
   * [理解 AI 驱动的软件 2.0 智能革命](https://www.indigox.me/the-evolution-of-machine-intelligence/)
+  * [Does One Large Model Rule Them All?](https://maithraraghu.com/blog/2023/does-one-model-rule-them-all/)
 

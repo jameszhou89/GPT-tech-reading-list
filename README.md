@@ -57,7 +57,7 @@
 * [ChatGPT的各项超能力从哪儿来？万字拆解追溯技术路线图来了！](https://mp.weixin.qq.com/s/7N3HveaIfn2N-zKjBoRL1A)
 * [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
 * Transformer
- * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/?ref=indigox.me)
+  * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/?ref=indigox.me)
   * [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
   * [小白看得懂的 Transformer (图解)](https://mp.weixin.qq.com/s/VrzkxEVBAO6abJcUsYGr0Q)
   * [了解 Transformers 是如何“思考”的](https://mp.weixin.qq.com/s/oNd_Qt2Sax1XR8QvDSoDhQ)

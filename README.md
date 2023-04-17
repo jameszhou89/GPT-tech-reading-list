@@ -65,6 +65,7 @@
 * LLM大语言模型
   * [Compression for AGI](https://www.youtube.com/@StanfordMLSysSeminars)
   * [压缩即泛化，泛化即智能](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)
+  * [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models?utm_source=substack&utm_medium=email)
 * Prompt
   * [五万字综述！Prompt Tuning：深度解读一种新的微调范式](https://mp.weixin.qq.com/s/-lfq63NrsqUgmvYNzogCew)
 * RLHF

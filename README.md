@@ -61,6 +61,7 @@
 * [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
 * Transformer
   * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/?ref=indigox.me)
+  * [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
   * [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
   * [小白看得懂的 Transformer (图解)](https://mp.weixin.qq.com/s/VrzkxEVBAO6abJcUsYGr0Q)
   * [了解 Transformers 是如何“思考”的](https://mp.weixin.qq.com/s/oNd_Qt2Sax1XR8QvDSoDhQ)

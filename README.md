@@ -53,7 +53,6 @@
 * [GPT-4论文精读](https://www.youtube.com/watch?v=K0SZ9mdygTw)
 * [GPT，GPT-2，GPT-3 论文精读](https://www.youtube.com/watch?v=t70Bl3w7bxY)
 * [OpenAI Codex 论文精读【论文精读】](https://www.youtube.com/watch?v=oZriUGkQSNM)
-* [Foundation models and the next era of AI](https://www.youtube.com/watch?v=HQI6O5DlyFc)
 * [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 
 ### blog
@@ -79,7 +78,7 @@
 
 ## 第三手资料
 * talks
-  * [B站最强的【Chat GPT保姆级使用教程】](https://www.bilibili.com/video/BV1HT411R7Lj/)
+  * [Foundation models and the next era of AI](https://www.youtube.com/watch?v=HQI6O5DlyFc)
   * [万字科普GPT4为何会颠覆现有工作流](https://www.bilibili.com/video/BV1MY4y1R7EN/)
   * [拾象科技 — OpenAI 闭门讨论会](https://mp.weixin.qq.com/s/AxX-Q7njegNTAxMkYFwsfA)
   * [ChatGPT技术分析](https://mp.weixin.qq.com/s/DdmAghMWHFq6kJldnbq37Q)

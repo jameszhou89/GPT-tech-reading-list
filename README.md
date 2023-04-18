@@ -30,7 +30,6 @@
   * 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - 这篇论文提出了一种 RLHF 的方式
   * 2023 [GPT-4 technical report](https://arxiv.org/abs/2303.08774)
 * 2022 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
-* [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 
 ### Talks
 * openai CEO
@@ -46,11 +45,16 @@
 * [李宏毅【機器學習 2023】(生成式 AI)](https://www.youtube.com/playlist?list=PLJV_el3uVTsOePyfmkfivYZ7Rqr2nMk3W)
 * [RLChina 2023 ChatGPT 和大模型春季课程](http://rlchina.org/topic/652)
 
+### paper
+* [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+
 ### Talks
 * [What is ChatGPT doing...and why does it work?](https://www.youtube.com/watch?v=flXrLGPY3SU)
 * [GPT-4论文精读](https://www.youtube.com/watch?v=K0SZ9mdygTw)
 * [GPT，GPT-2，GPT-3 论文精读](https://www.youtube.com/watch?v=t70Bl3w7bxY)
 * [OpenAI Codex 论文精读【论文精读】](https://www.youtube.com/watch?v=oZriUGkQSNM)
+* [Foundation models and the next era of AI](https://www.youtube.com/watch?v=HQI6O5DlyFc)
+* [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 
 ### blog
 * [理解大语言模型——10篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)

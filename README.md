@@ -67,7 +67,7 @@
   * [了解 Transformers 是如何“思考”的](https://mp.weixin.qq.com/s/oNd_Qt2Sax1XR8QvDSoDhQ)
   * [为什么现在的大语言模型（LLM）都是Decoder-only的架构？](https://mp.weixin.qq.com/s/ZsHX-M9pisUvG9vqfzdzTQ)
 * LLM大语言模型
-  * [Compression for AGI](https://www.youtube.com/@StanfordMLSysSeminars)
+  * [Compression for AGI](https://www.youtube.com/watch?v=dO4TPJkeaaU)
   * [压缩即泛化，泛化即智能](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)
   * [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models?utm_source=substack&utm_medium=email)
 * Prompt

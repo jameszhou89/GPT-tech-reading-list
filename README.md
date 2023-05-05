@@ -39,6 +39,7 @@
   * [Ilya Sutskever (OpenAI Chief Scientist) - Building AGI, Alignment, Spies, Microsoft, & Enlightenment](https://www.youtube.com/watch?v=Yf1o0TQzry8)
   * [GPT-4创造者：第二次改变AI浪潮的方向](https://mp.weixin.qq.com/s/rZBEDlxFVsVXoL5YUVU3XQ)
   * [黄仁勋与OpenAI首席科学家Ilya Sutskever的炉边谈话 4K 中文字幕](https://www.bilibili.com/video/BV1Tc411L7UA/?spm_id_from=333.337.search-card.all.click)
+  * [Inside OpenAI [Entire Talk]](https://www.youtube.com/watch?v=Wmo2vR7U9ck)
 
 ## 第二手解读资料
 ### Course

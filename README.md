@@ -63,16 +63,14 @@
 * [ChatGPT的各项超能力从哪儿来？万字拆解追溯技术路线图来了！](https://mp.weixin.qq.com/s/7N3HveaIfn2N-zKjBoRL1A)
 * [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
 * Transformer
-  * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/?ref=indigox.me)
   * [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
   * [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
   * [小白看得懂的 Transformer (图解)](https://mp.weixin.qq.com/s/VrzkxEVBAO6abJcUsYGr0Q)
-  * [了解 Transformers 是如何“思考”的](https://mp.weixin.qq.com/s/oNd_Qt2Sax1XR8QvDSoDhQ)
+  * [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
   * [为什么现在的大语言模型（LLM）都是Decoder-only的架构？](https://mp.weixin.qq.com/s/ZsHX-M9pisUvG9vqfzdzTQ)
 * LLM大语言模型
   * [Compression for AGI](https://www.youtube.com/watch?v=dO4TPJkeaaU)
   * [压缩即泛化，泛化即智能](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)
-  * [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models?utm_source=substack&utm_medium=email)
 * Prompt
   * [五万字综述！Prompt Tuning：深度解读一种新的微调范式](https://mp.weixin.qq.com/s/-lfq63NrsqUgmvYNzogCew)
 * RLHF

@@ -40,6 +40,7 @@
   * [GPT-4创造者：第二次改变AI浪潮的方向](https://mp.weixin.qq.com/s/rZBEDlxFVsVXoL5YUVU3XQ)
   * [黄仁勋与OpenAI首席科学家Ilya Sutskever的炉边谈话 4K 中文字幕](https://www.bilibili.com/video/BV1Tc411L7UA/?spm_id_from=333.337.search-card.all.click)
   * [Inside OpenAI [Entire Talk]](https://www.youtube.com/watch?v=Wmo2vR7U9ck)
+  * [An observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A)
 * Andrej Karpathy
   * [微软2023年Build大会演讲：如何训练和应用GPT](https://www.youtube.com/watch?v=YrBJiy-V8MY)
 

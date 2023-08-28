@@ -64,7 +64,7 @@
 * [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
 * Transformer
   * [What Are Transformer Models and How Do They Work?](https://txt.cohere.ai/what-are-transformer-models/)
-  * [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
+  * [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
   * [小白看得懂的 Transformer (图解)](https://mp.weixin.qq.com/s/VrzkxEVBAO6abJcUsYGr0Q)
   * [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
   * [为什么现在的大语言模型（LLM）都是Decoder-only的架构？](https://mp.weixin.qq.com/s/ZsHX-M9pisUvG9vqfzdzTQ)
@@ -77,18 +77,4 @@
   * [ChatGPT 背后的“功臣”——RLHF 技术详解 ](https://mp.weixin.qq.com/s/TLQ3TdrB5gLb697AFmjEYQ)
   * [ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg)
 
-
-## 第三手资料
-* talks
-  * [Foundation models and the next era of AI](https://www.youtube.com/watch?v=HQI6O5DlyFc)
-  * [万字科普GPT4为何会颠覆现有工作流](https://www.bilibili.com/video/BV1MY4y1R7EN/)
-  * [拾象科技 — OpenAI 闭门讨论会](https://mp.weixin.qq.com/s/AxX-Q7njegNTAxMkYFwsfA)
-  * [ChatGPT技术分析](https://mp.weixin.qq.com/s/DdmAghMWHFq6kJldnbq37Q)
-  * [详解现象级ChatGPT发展历程、原理、技术架构详解和产业未来](https://mp.weixin.qq.com/s/qVNsJRQXzBdctIp5RiSCRA)
-* blog
-  * [ChatGPT Is a Blurry JPEG of the Web ](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
-  * [万字长文：一文看懂GPT风口，有哪些创业机会？](https://mp.weixin.qq.com/s/gPqOAzX4sWZtXDPFjc16Ow)
-  * [这一轮AI会带来什么样的范式转移？](https://mp.weixin.qq.com/s/oXdIJ9hdSp7Ls4CuaNFiXw)
-  * [理解 AI 驱动的软件 2.0 智能革命](https://www.indigox.me/the-evolution-of-machine-intelligence/)
-  * [Does One Large Model Rule Them All?](https://maithraraghu.com/blog/2023/does-one-model-rule-them-all/)
 
